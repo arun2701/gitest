@@ -1,0 +1,4 @@
+Hello
+The file is from RHEL8-01
+Thanks,
+Arun Prasad
